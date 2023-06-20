@@ -1,10 +1,8 @@
 # Get Tesla Calculator
 How to calculate the Speed and Temperature of a Tela
 
+# Tesla-calculate battery
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Tesla-calculateBattery
-
-#Deploy of the Application 
+#Deploy the Application 
 URL : https://storied-narwhal-fca438.netlify.app
 
